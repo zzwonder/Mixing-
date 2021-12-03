@@ -1,4 +1,6 @@
-This repository contains the source code of Mixing Method++ (base on the Mixing Method: https://github.com/locuslab/mixing).
+Mixing ++ is an accelerated version of the Mixing Method (https://github.com/locuslab/mixing). The momentum is added for speeding up the convergence.
+
+For more information, see the paper: https://arxiv.org/abs/2106.08775.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 To compile, run $make. (GCC/7.3.0)
